@@ -1,7 +1,6 @@
 # Dashboard de Empleos en Datos con Power BI
 
-  <img src="images/dashboard_overview.gif.gif" alt="GIF del Dashboard de Empleos en Datos" width="100%">
-</a>
+<img src="dashboard_overview.gif.gif" alt="GIF del Dashboard de Empleos en Datos" width="100%">
 
 ## Introducción
 
