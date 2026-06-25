@@ -1,7 +1,7 @@
 # Dashboard de Empleos en Datos con Power BI
 
 <a href="TU_LINK_DE_POWER_BI_SERVICE_ACA" target="_blank">
-  <img src="Resources/images/Project1_Dashboard_Overview.gif" alt="GIF del Dashboard de Empleos en Datos">
+  <img src="images/dashboard_overview.gif.gif" alt="GIF del Dashboard de Empleos en Datos" width="100%">
 </a>
 
 ## Introducción
