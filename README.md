@@ -9,7 +9,7 @@
 Este dashboard fue creado para **personas en búsqueda de empleo, en transición de carrera o buscando un cambio profesional**, con el fin de resolver un problema común: la información sobre el mercado laboral de datos está dispersa y es difícil de comprender. Utilizando un conjunto de datos reales de ofertas de empleo de ciencia de datos del 2024 (que incluye títulos, salarios y ubicaciones), este proyecto proporciona una interfaz única y fácil de usar para explorar las tendencias del mercado y las compensaciones.
 
 ### Archivo del Dashboard
-Puedes encontrar el archivo original del dashboard aquí: [`Data_Jobs_Dashboard.pbix`](Data_Jobs_Dashboard.pbix).  
+Puedes encontrar el archivo original del dashboard aquí: [`powerbi-data-analytics.pbix`](powerbi-data-analytics.pbix).  
 
 ## Habilidades Demostradas
 
