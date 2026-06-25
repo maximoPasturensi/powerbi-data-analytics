@@ -36,7 +36,7 @@ Este proyecto representó un recorrido completo a través de las funcionalidades
 
 ### Página 1: Vista General del Mercado
 
-![Dashboard Página 1](Resources/images/Project1_Dashboard_Page1.gif)  
+<img src="segundo.gif" alt="Dashboard Página 1" width="100%">
 
 Este es el centro de control del mercado laboral de datos. Muestra KPIs clave como el total de ofertas de empleo, medianas salariales y los títulos de trabajo más demandados para ofrecer una comprensión rápida y de un solo vistazo de lo que está ocurriendo en el sector.
 
