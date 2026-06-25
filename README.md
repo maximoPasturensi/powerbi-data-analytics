@@ -42,7 +42,7 @@ Este es el centro de control del mercado laboral de datos. Muestra KPIs clave co
 
 ### Página 2: Detalle por Título (Drill Through)
 
-![Dashboard Página 2](Resources/images/Project1_Dashboard_Page2.gif)  
+<img src="tercer.gif" alt="Dashboard Página 2" width="100%"> 
 
 Esta es la página de análisis profundo. Desde el dashboard principal, puedes aplicar *drill-through* a esta vista para obtener detalles específicos de un solo puesto de trabajo, incluyendo rangos salariales, estadísticas de trabajo remoto (Home Office), las plataformas de reclutamiento más populares y un mapa global con la ubicación de las vacantes.
 
